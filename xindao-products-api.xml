@@ -1,0 +1,119 @@
+<Products>
+    <Product>
+        <FeedCreatedDateTime>2022-02-03T13:44:41</FeedCreatedDateTime>
+        <ItemDataLastModifiedDateTime>2021-10-25T08:30:51</ItemDataLastModifiedDateTime>
+        <ModelCode>P110.01</ModelCode>
+        <ItemCode>P110.015</ItemCode>
+        <ProductLifeCycle>Current</ProductLifeCycle>
+        <IntroDate>2014-10-30</IntroDate>
+        <ItemName>Tailor tape</ItemName>
+        <LongDescription>1,5m/60inch fibreglass tape with return push button, for fitness and fashion.</LongDescription>
+        <ItemUSPs/>
+        <Keywords/>
+        <Brand>XD Collection</Brand>
+        <BrandLogo/>
+        <Eco/>
+        <MainCategory>Tools and Torches</MainCategory>
+        <SubCategory>Measuring tapes</SubCategory>
+        <Material>Acrylonitril Butadieen Styrene (ABS), Fiberglass</Material>
+        <Color>white</Color>
+        <PMSColor1>White</PMSColor1>
+        <PMSColor2/>
+        <HexColor1>FFFFFF</HexColor1>
+        <HexColor2/>
+        <InkColor/>
+        <ItemLengthCM/>
+        <ItemWidthCM>5.2</ItemWidthCM>
+        <ItemHeightCM>1.6</ItemHeightCM>
+        <ItemDiameterCM/>
+        <ItemDimensions>5.2 x 1.6 cm</ItemDimensions>
+        <ItemWeightNetGr>21.5</ItemWeightNetGr>
+        <ItemWeightGrossGr>25</ItemWeightGrossGr>
+        <CountryOfOrigin>CHN</CountryOfOrigin>
+        <CommodityCode>9017801000</CommodityCode>
+        <EANCode>8714612071038</EANCode>
+        <Compliance>Conform Cadmium directive 91/338/EC, Conform Measuring device directive 2014/32/EU, Conform the U.S. lead content, Conform PAHS content in Reach & ZEK 01-4-08, Conform SVHC directive 1907/2006/EC, Free from short- and medium-chain chlorinated paraffins</Compliance>
+        <WEEE/>
+        <USBitem/>
+        <Batteries/>
+        <BatteryType/>
+        <NrOfBatteries/>
+        <BatteryWeightGr/>
+        <IECCode/>
+        <BatteryChemicalComposition/>
+        <AllImages>http://static.xindao.com/ProductImages/Large/p110.015__b_1.jpg, http://static.xindao.com/ProductImages/Large/p110.015__b_2.jpg, http://static.xindao.com/ProductImages/Large/p110.015__d_100.jpg, http://static.xindao.com/ProductImages/Large/p110.015__m_400.jpg</AllImages>
+        <MainImage>http://static.xindao.com/ProductImages/Large/p110.015__b_1.jpg</MainImage>
+        <ExtraImage1>http://static.xindao.com/ProductImages/Large/p110.015__b_2.jpg</ExtraImage1>
+        <ExtraImage2/>
+        <ExtraImage3/>
+        <ExtraImage4/>
+        <ExtraImage5/>
+        <ExtraImage6/>
+        <ExtraImage7/>
+        <ImagePrint>http://static.xindao.com/ProductImages/Large/p110.015__d_100.jpg</ImagePrint>
+        <ImageGroupBlank/>
+        <ImageGroupPrint/>
+        <ImageMood1>http://static.xindao.com/ProductImages/Large/p110.015__m_400.jpg</ImageMood1>
+        <ImageMood2/>
+        <ImageMood3/>
+        <VideoURLVimeo/>
+        <VideoURLYoutube/>
+        <ItemManual/>
+        <PackagingTypeItem>Bulk and with separate neutral white individual box</PackagingTypeItem>
+        <GiftPackaging/>
+        <ItemBoxLengthCM>5.5</ItemBoxLengthCM>
+        <ItemBoxWidthCM>1.5</ItemBoxWidthCM>
+        <ItemBoxHeightCM>5.5</ItemBoxHeightCM>
+        <ItemBoxDiameterCM/>
+        <ItemBoxDimensions>5.5 x 1.5 x 5.5 cm</ItemBoxDimensions>
+        <OuterCartonLengthCM>34.5</OuterCartonLengthCM>
+        <OuterCartonWidthCM>34.5</OuterCartonWidthCM>
+        <OuterCartonHeightCM>35.5</OuterCartonHeightCM>
+        <OuterCartonDimensions>34.5 x 34.5 x 35.5 cm</OuterCartonDimensions>
+        <OuterCartonWeightNetKG>15</OuterCartonWeightNetKG>
+        <OuterCartonWeightGrossKG>16</OuterCartonWeightGrossKG>
+        <InnerBoxQty>20</InnerBoxQty>
+        <OuterCartonQty>600</OuterCartonQty>
+        <AllPrintCodes>Pad Print Low</AllPrintCodes>
+        <PrintCodeDefault>Pad Print Low</PrintCodeDefault>
+        <PrintTechniqueDefault>Pad print</PrintTechniqueDefault>
+        <PrintPositionDefault>item</PrintPositionDefault>
+        <MaxPrintWidthDefaultMM>30</MaxPrintWidthDefaultMM>
+        <MaxPrintHeightDefaultMM>30</MaxPrintHeightDefaultMM>
+        <MaxPrintAreaDefault>30 x 30 mm</MaxPrintAreaDefault>
+        <MaxColorsDefault>5</MaxColorsDefault>
+        <FullColorDefault/>
+        <LineDrawingDefault>http://static.xindao.com/ProductDecorationImages/P110.015__PadPrintLow_Item-b2a0bf1f-2b76-4572-ad51-a39834cea982.png</LineDrawingDefault>
+        <ArtworkFileDefault/>
+        <VariableDataPrinting/>
+        <CustomSleeve/>
+        <GiftWrapping/>
+        <DeliveryCountry/>
+        <DeliveryTimeSampleOrder/>
+        <DeliveryTimeBlankOrder/>
+        <DeliveryTimePrintOrderDefault/>
+        <RestrictedCountriesForSale/>
+        <Mailable>true</Mailable>
+        <LeakPrevention/>
+        <Insulation/>
+        <HoursHot/>
+        <HoursCold/>
+        <FitsCoffeeMachine/>
+        <ContentVolumeLiters/>
+        <FitsLaptopTabletSizeInches/>
+        <NotebookFormat/>
+        <TapeLengthMeters>1.5</TapeLengthMeters>
+        <HasBluetooth/>
+        <WirelessCharging/>
+        <PowerbankCapacity/>
+        <NumberOfSpeakers/>
+        <SpeakerOutputW/>
+        <Lightsource/>
+        <LightsourceQty/>
+        <UmbrellaMechanism/>
+        <IsStormproof/>
+        <PaperWeight/>
+        <NumberOfPages/>
+        <PaperRulingLayout/>
+    </Product>
+</Products>
