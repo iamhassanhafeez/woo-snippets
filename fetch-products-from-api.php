@@ -8,7 +8,7 @@ function get_promo_branding_products_from_api(){
 	/*	$url = "https://api.impressioneurope.co.uk/v1/promo-branding";
 		$args = array(
 	  'headers' => array(
-		'Authorization' => 'Basic ' . base64_encode( 'promo-branding' . ':' . 'vf93b204-g85y-54j6-b84d-beceb1217986' )
+		'Authorization' => 'Basic ' . base64_encode( 'promo-branding' . ':' . 'XXXXXXXXXXXXXXXXXXXXXXx' )
 	  )
 	);*/
 		//$response = wp_remote_request( $url, $args );
